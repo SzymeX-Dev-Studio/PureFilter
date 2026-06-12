@@ -1,6 +1,6 @@
 ---
 name: "[❓] Question"
-about: Performance error reporting
+about: here you can ask me your question :)
 title: "[QUESTION]"
 labels: question
 assignees: SzymeX0
