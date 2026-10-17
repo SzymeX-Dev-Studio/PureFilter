@@ -1,5 +1,9 @@
 # Security Policy
 
+
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e15b763e-7d2f-46f5-9e3a-8f5086b04aba" />
+
+
 ## Supported Versions
 
 Supported versions of the PureFilter plugin are listed in the table below. 
@@ -7,7 +11,8 @@ Supported versions will receive security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| v1.0.0  |        YES         |
+| v1.1.0  |        NO          |
+| v1.0.0  |        NO          |
 
 ## Reporting a Vulnerability
 
